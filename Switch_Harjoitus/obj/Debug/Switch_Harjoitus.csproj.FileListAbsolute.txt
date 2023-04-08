@@ -1,0 +1,7 @@
+C:\Users\Slav!\source\repos\Switch_Harjoitus\Switch_Harjoitus\bin\Debug\Switch_Harjoitus.exe.config
+C:\Users\Slav!\source\repos\Switch_Harjoitus\Switch_Harjoitus\bin\Debug\Switch_Harjoitus.exe
+C:\Users\Slav!\source\repos\Switch_Harjoitus\Switch_Harjoitus\bin\Debug\Switch_Harjoitus.pdb
+C:\Users\Slav!\source\repos\Switch_Harjoitus\Switch_Harjoitus\obj\Debug\Switch_Harjoitus.csproj.AssemblyReference.cache
+C:\Users\Slav!\source\repos\Switch_Harjoitus\Switch_Harjoitus\obj\Debug\Switch_Harjoitus.csproj.CoreCompileInputs.cache
+C:\Users\Slav!\source\repos\Switch_Harjoitus\Switch_Harjoitus\obj\Debug\Switch_Harjoitus.exe
+C:\Users\Slav!\source\repos\Switch_Harjoitus\Switch_Harjoitus\obj\Debug\Switch_Harjoitus.pdb
